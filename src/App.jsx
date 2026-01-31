@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Node from "./components/Node";
+import Node from "./components/node";
 
 const btn = {
   padding: "6px 10px",
